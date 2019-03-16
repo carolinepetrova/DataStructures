@@ -5,11 +5,11 @@ In computer programming, an unrolled linked list is a variation on the linked li
 
 
 ## Methods 
-push_back - Adds element in the end of a list
-push_to_node - Adds an element to a specific node
-delete_occurances - Removes the occurances of an element from all nodes
-empty - Returns is the list is empty
-size - Returns the size of the list
+*push_back - Adds element in the end of a list
+*push_to_node - Adds an element to a specific node
+*delete_occurances - Removes the occurances of an element from all nodes
+*empty - Returns is the list is empty
+*size - Returns the size of the list
 
 ## Iterator
 operator++ (Prefix and Postfix) - the iterator moves element by element, reaching the end of a node, passing to the next node
